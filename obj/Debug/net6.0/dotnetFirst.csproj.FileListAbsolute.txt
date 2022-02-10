@@ -1,0 +1,15 @@
+/Users/erenaltin/Desktop/All/C#/dotnetFirst/bin/Debug/net6.0/dotnetFirst
+/Users/erenaltin/Desktop/All/C#/dotnetFirst/bin/Debug/net6.0/dotnetFirst.deps.json
+/Users/erenaltin/Desktop/All/C#/dotnetFirst/bin/Debug/net6.0/dotnetFirst.runtimeconfig.json
+/Users/erenaltin/Desktop/All/C#/dotnetFirst/bin/Debug/net6.0/dotnetFirst.dll
+/Users/erenaltin/Desktop/All/C#/dotnetFirst/bin/Debug/net6.0/ref/dotnetFirst.dll
+/Users/erenaltin/Desktop/All/C#/dotnetFirst/bin/Debug/net6.0/dotnetFirst.pdb
+/Users/erenaltin/Desktop/All/C#/dotnetFirst/obj/Debug/net6.0/dotnetFirst.csproj.AssemblyReference.cache
+/Users/erenaltin/Desktop/All/C#/dotnetFirst/obj/Debug/net6.0/dotnetFirst.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erenaltin/Desktop/All/C#/dotnetFirst/obj/Debug/net6.0/dotnetFirst.AssemblyInfoInputs.cache
+/Users/erenaltin/Desktop/All/C#/dotnetFirst/obj/Debug/net6.0/dotnetFirst.AssemblyInfo.cs
+/Users/erenaltin/Desktop/All/C#/dotnetFirst/obj/Debug/net6.0/dotnetFirst.csproj.CoreCompileInputs.cache
+/Users/erenaltin/Desktop/All/C#/dotnetFirst/obj/Debug/net6.0/dotnetFirst.dll
+/Users/erenaltin/Desktop/All/C#/dotnetFirst/obj/Debug/net6.0/ref/dotnetFirst.dll
+/Users/erenaltin/Desktop/All/C#/dotnetFirst/obj/Debug/net6.0/dotnetFirst.pdb
+/Users/erenaltin/Desktop/All/C#/dotnetFirst/obj/Debug/net6.0/dotnetFirst.genruntimeconfig.cache
